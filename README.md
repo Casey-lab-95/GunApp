@@ -12,3 +12,5 @@
  Lets you save profiles for different builds and calculates the current cost of parts.
  
  Allows you to look at how to put togeather triggers and parts.
+ 3D rendering "Cinima 4D".
+ Ability to drag and drop parts on and off riffel.
