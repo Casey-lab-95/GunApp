@@ -14,3 +14,4 @@
  Allows you to look at how to put togeather triggers and parts.
  3D rendering "Cinima 4D".
  Ability to drag and drop parts on and off riffel.
+ 3D model ideas https://www.turbosquid.com/3d-models/ar-15-kit-3d-model-1551065
